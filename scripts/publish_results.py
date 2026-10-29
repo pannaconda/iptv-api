@@ -29,8 +29,6 @@ LOG_ASSETS = {
     "log/result.jsonl": "result.jsonl",
     "log/speed_test.log": "speed_test.log",
     "log/speed_test.jsonl": "speed_test.jsonl",
-    "log/statistic.log": "statistic.log",
-    "log/statistic.jsonl": "statistic.jsonl",
     "log/unmatch.log": "unmatch.log",
     "log/unmatch.jsonl": "unmatch.jsonl",
 }
